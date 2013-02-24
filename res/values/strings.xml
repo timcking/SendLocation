@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SendLocation!</string>
+    <string name="app_name">Send Location</string>
+<color name="backColor">#3399CC</color>
+<string name="buttonHandler">myClickHandler</string>
+</resources>
